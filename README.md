@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **c++ ,c ,python ,html , js , some java , some php and basic sql**
 
-- 📄 Know about my experiences [tool4u.netlify.app](tool4u.netlify.app)
+- 📄 Know about my experiences [no portfolio yet]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +21,13 @@
 <a href="https://codeforces.com/profile/rudransh69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rudransh69" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rudransh69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudransh69" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aarti16w1b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aarti16w1b" height="30" width="40" /></a>
+</p>
+
+<h2>Visitor Count :eyes:</h2>
+<p>
+    <a href="https://github.com/rudransh61">
+        <img src="https://profile-counter.glitch.me/{rudransh61}/count.svg" alt="rudransh61 :: Visitor's Count" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
