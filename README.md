@@ -6,6 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
 - 🔭 I’m currently working on [FreeDevs](https://github.com/rudransh61/FreeDevs)
 
 - 🌱 I’m currently learning **Godot,Rust,p5.js,SDL**
@@ -23,6 +24,8 @@
 - 📄 Know about my experiences [github.com/rudransh61](github.com/rudransh61)
 
 - ⚡ Fun fact **I like maths and physics and create things with them!**
+
+[![rudransh61's GitHub | Stats](https://stats.quine.sh/rudransh61/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rudransh61)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
